@@ -9,9 +9,14 @@ Social engineering can lead to security breaches. People need practice respondin
 
 ## 🍿 Video
 
-[![BaitCheck demo video](https://img.youtube.com/vi/cbzNuaDUl6o/hqdefault.jpg)](https://drive.google.com/file/d/1-EseW494OLtFafnGS-pKHv8E1L9ICqbE/view?usp=sharing)
 
-[Watch the demo video](https://drive.google.com/file/d/1-EseW494OLtFafnGS-pKHv8E1L9ICqbE/view?usp=sharing)
+[![Demonstration video](https://img.youtube.com/vi/cbzNuaDUl6o/hqdefault.jpg)](https://drive.google.com/file/d/1-EseW494OLtFafnGS-pKHv8E1L9ICqbE/view?usp=sharing)
+
+[Watch My contribution videon](https://drive.google.com/file/d/1-EseW494OLtFafnGS-pKHv8E1L9ICqbE/view?usp=sharing)
+
+[![BaitCheck demo video](https://img.youtube.com/vi/cbzNuaDUl6o/hqdefault.jpg)](https://youtu.be/cbzNuaDUl6o)
+
+[Watch the full demo on YouTube](https://youtu.be/cbzNuaDUl6o): registration, the scenarios in English and Amharic, the report, and the admin view.
 
 ## What it does
 
